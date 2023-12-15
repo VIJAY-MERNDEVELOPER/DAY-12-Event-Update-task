@@ -1,0 +1,16 @@
+span {
+  color: rgb(235, 67, 67);
+}
+h1 {
+  color: rgb(101, 41, 157);
+}
+
+label {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 474px) {
+  img {
+    width: 2rem;
+  }
+}
