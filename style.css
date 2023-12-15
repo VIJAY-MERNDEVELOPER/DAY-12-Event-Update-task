@@ -8,9 +8,3 @@ h1 {
 label {
   font-weight: bold;
 }
-
-@media screen and (max-width: 474px) {
-  img {
-    width: 2rem;
-  }
-}
