@@ -17,10 +17,12 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <!-- navigation bar with Title -->
     <div class="container-fluid">
       <nav class="navbar navbar-light bg-light">
         <span class="mb-0 h1">EVENT BOOKING </span>
       </nav>
+      <!-- main content with input details -->
       <main class="container-fluid border bg-light">
         <div class="row justify-content-center">
           <h1>NEW YEAR EVENT</h1>
@@ -28,6 +30,7 @@
         <div class="row justify-content-center">
           <h4 class="font-weight-normal">Number of availbale seats: 23</h4>
         </div>
+        <!-- splitting column for image -->
         <div class="row justify-content-center">
           <div class="col-sm-4 mx-sm-5 my-5">
             <img
@@ -36,6 +39,8 @@
               style="width: 19rem; height: 15rem"
             />
           </div>
+          <!-- splitting column for input details -->
+          <!-- Name inout -->
           <div class="col-lg-6 mx-sm-3 my-4">
             <div class="form-group row">
               <label for="inputName" class="col-sm-3 col-form-label"
@@ -50,6 +55,7 @@
                 />
               </div>
             </div>
+            <!-- input email -->
             <div class="form-group row">
               <label for="colFormLabelSm" class="col-sm-3 col-form-label"
                 >Email:</label
@@ -63,6 +69,7 @@
                 />
               </div>
             </div>
+            <!-- input phone number -->
             <div class="form-group row">
               <label for="phone" class="col-sm-3 col-form-label"
                 >Phone No:</label
@@ -78,6 +85,7 @@
                 />
               </div>
             </div>
+            <!-- select number of seats -->
             <div class="form-group row">
               <label for="seatCount" class="col-sm-3 col-form-label"
                 >Number of Seats:</label
@@ -87,15 +95,13 @@
                   id="seatCount"
                   class="col-sm-4 my-1 form-control form-control-sm"
                 >
-                  <!-- You can customize the number of options based on your requirements -->
                   <option value="" disabled selected>Select</option>
                   <option value="1">1</option>
                   <option value="2">2</option>
-
-                  <!-- Add more options as needed -->
                 </select>
               </div>
             </div>
+            <!-- input name of attendee -->
             <div class="form-group row">
               <label for="inputName" class="col-sm-3 col-form-label"
                 >Name of Attendee:</label
@@ -108,6 +114,7 @@
                 />
               </div>
             </div>
+            <!-- submit and cancel button -->
             <div class="form-group row">
               <button type="submit" class="btn btn-success col-sm-3 mx-5 my-3">
                 Submit
