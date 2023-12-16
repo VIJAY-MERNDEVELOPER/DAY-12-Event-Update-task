@@ -5,10 +5,10 @@
  <br> <img align="center" src="./Asset/EVENT-UPDATE TASK.png" alt="" style="width: 30rem; height: 25rem" />
  <br>
  <br>
-<a href="https://event-update-task.netlify.app/" target="Event-update">
+<a href="https://event-update-task.netlify.app/" target="blank">Event-update</a>
 </p>
 <br>
  <br>
-<a href="https://event-update-task.netlify.app/" target="Event-update">
+
  
 
