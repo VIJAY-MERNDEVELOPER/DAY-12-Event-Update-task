@@ -1,5 +1,14 @@
-<h2 style="text-align:center;">EVENT UPDATE TASK </h2>
+<h2 align="center">EVENT UPDATE TASK </h2>
 
-<span> Event update task with HTML & Bootstrap</span>
+<p align="center"> Event update task with HTML & Bootstrap
+<br>
+ <br> <img align="center" src="./Asset/EVENT-UPDATE TASK.png" alt="" style="width: 30rem; height: 25rem" />
+ <br>
+<br>
+ <a href="https://event-update-task.netlify.app/" target="_blank" rel="noreferrer">Event-update</a>
 
-<img src="./Asset/EVENT-UPDATE TASK.png" alt="" style="width: 25rem; height: 20rem"/>
+</p>
+
+
+ 
+
